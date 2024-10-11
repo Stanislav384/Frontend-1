@@ -1,1 +1,27 @@
 /* ВАШІ СТИЛІ */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+}
+h1, h2, h3 {
+    color: #444;
+    text-align: center;
+    margin-bottom: 20px;
+}
+p {
+    margin: 20px;
+    font-size: 18px;
+}
+button {
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: #005f73;
+}
