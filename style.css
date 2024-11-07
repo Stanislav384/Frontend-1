@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #ff8c42;
+    background-color: #556b2f;
     color: #fff;
     padding: 1rem;
     text-align: center;
@@ -21,7 +21,6 @@ header img {
     display: flex;
     align-items: flex-start;
     height: 50px; 
-    border: 1px solid #ccc;
     position: absolute;
     top: 20;
     left: 20;
@@ -54,7 +53,7 @@ main {
 }
 
 footer {
-    background-color: #ff8c42;
+    background-color: #556b2f;
     color: #fff;
     text-align: center;
     position: absolute;
@@ -70,7 +69,7 @@ footer {
 
 h2 {
     font-size: 1.6em;
-    color: #ff8c42;
+    color: #556b2f;
 }
 
 ul {
@@ -82,7 +81,7 @@ ul li {
     font-size: 1.2em;
 }
 button, a.button {
-    background-color: #ffb84d;
+    background-color: #FFD700;
     color: #fff;
     border: none;
     padding: 0.5rem 1rem;
@@ -93,5 +92,5 @@ button, a.button {
 }
 
 button:hover, a.button:hover {
-    background-color: #ff8c42;
+    background-color: #556b2f;
 }
