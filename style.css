@@ -95,3 +95,10 @@ button, a.button {
 button:hover, a.button:hover {
     background-color: #ff8c42;
 }
+
+.menu-image {
+    width: 300px;
+    height: auto;
+    margin-top: 0.5rem;
+    border-radius: 8px;
+}
